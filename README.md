@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ValentinJS, Senior FrontEnd Web Dev.
-- 👷‍♂️ I'm currently working at @Adikteev
-- 👀 I’m interested in all things Javascript
-- 🌍 I'm in Paris, France right now, but will move soon to Montréal, Canada.
-- 🔭 I'll be looking for job opportunities in Montréal starting October 2022
+- 👋 Hi, I’m @ValentinJS, FrontEnd Web Dev since 2010
+- 👷‍♂️ I'm currently working as a contractor for @BiggerPicture
+- 👀 I’m a nerd in computer stuff, animal photography and astronomy.
+- 🌍 Born in France, I'm in Montréal, Canada right now.
+- 🔭 Not looking for job offers but who knows ?
 
 
 <!---
