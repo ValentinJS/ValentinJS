@@ -3,6 +3,7 @@
 - 👀 I’m a nerd in computer stuff, animal photography and astronomy.
 - 🌍 Born in France, I'm in Montréal, Canada right now.
 - 🔭 Not looking for job offers but who knows ?
+- 💬 🇫🇷 🇬🇧 ~🇯🇵
 
 
 <!---
